@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vite-plugin-externals": "^0.5.1"
+    "vite-plugin-externals": "^0.5.1",
+    "vue": "3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
+    "rollup-plugin-visualizer": "^5.9.0",
     "vite": "^4.0.0"
   }
 }
